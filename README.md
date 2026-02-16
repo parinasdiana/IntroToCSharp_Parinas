@@ -1,7 +1,7 @@
 # IntroToCSharp_Pariñas
 
 ## Prelim Activity 01: Codac Logistics Delivery & Fuel Auditor
-**Author:** Justin Louise Neypes
+**Author:** Diana D. Pariñas
 
 ### Task Description
 This project is a console-based C# application designed for Codac Logistics to track vehicle performance over a 5-day work week. The tool performs the following:
