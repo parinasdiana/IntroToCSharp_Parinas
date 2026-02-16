@@ -1,0 +1,14 @@
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\bin\Debug\net10.0\PrelimActivity01.exe
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\bin\Debug\net10.0\PrelimActivity01.deps.json
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\bin\Debug\net10.0\PrelimActivity01.runtimeconfig.json
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\bin\Debug\net10.0\PrelimActivity01.dll
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\bin\Debug\net10.0\PrelimActivity01.pdb
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\obj\Debug\net10.0\PrelimActivity01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\obj\Debug\net10.0\PrelimActivity01.AssemblyInfoInputs.cache
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\obj\Debug\net10.0\PrelimActivity01.AssemblyInfo.cs
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\obj\Debug\net10.0\PrelimActivity01.csproj.CoreCompileInputs.cache
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\obj\Debug\net10.0\PrelimActivity01.dll
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\obj\Debug\net10.0\refint\PrelimActivity01.dll
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\obj\Debug\net10.0\PrelimActivity01.pdb
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\obj\Debug\net10.0\PrelimActivity01.genruntimeconfig.cache
+C:\Users\DIANA PARINAS\source\repos\PrelimActivity01\PrelimActivity01\obj\Debug\net10.0\ref\PrelimActivity01.dll
